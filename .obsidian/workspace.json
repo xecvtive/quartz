@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "d9d25a76ee9cdf92",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fbcc0d4679caadc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3121579216dfc28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "02f25ae708e1daf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asdf;laksjdf;aklsf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "946122ee1d393a65",
+    "type": "split",
+    "children": [
+      {
+        "id": "941c9080992fe4d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6bb57846db47df0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab5ac3cc13fe8694",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07be7da9ca44159c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae3538922629e535",
+    "type": "split",
+    "children": [
+      {
+        "id": "985e830eedc548b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df46ab59506f3ca4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "asdf;laksjdf;aklsf.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2756a55a22a04341",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "asdf;laksjdf;aklsf.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "292f16bfbd142e7e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3cd1860cb0bc0874",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "asdf;laksjdf;aklsf.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "02f25ae708e1daf1",
+  "lastOpenFiles": [
+    "asdf;laksjdf;aklsf.md"
+  ]
+}
