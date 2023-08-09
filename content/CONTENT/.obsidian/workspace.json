@@ -14,21 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "0b2a728570677812",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quartz index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quartz index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quartz index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Quartz index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,9 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b2a728570677812",
+  "active": "d67ab5438d8798c3",
   "lastOpenFiles": [
-    "public knowledge MOC.md",
-    "Quartz index.md"
+    "Quartz index.md",
+    "public knowledge MOC.md"
   ]
 }
