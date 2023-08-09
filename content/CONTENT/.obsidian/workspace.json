@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quartz creation.md",
+                "file": "Quartz index.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quartz creation.md",
+                "file": "Quartz index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quartz creation.md",
+                "file": "Quartz index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quartz creation.md"
+                "file": "Quartz index.md"
               }
             }
           }
@@ -157,6 +157,7 @@
   },
   "active": "0b2a728570677812",
   "lastOpenFiles": [
-    "Quartz creation.md"
+    "public knowledge MOC.md",
+    "Quartz index.md"
   ]
 }
