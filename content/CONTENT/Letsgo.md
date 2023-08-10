@@ -1,0 +1,2 @@
+ok
+[[public knowledge MOC]]
